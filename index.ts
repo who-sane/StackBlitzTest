@@ -18,10 +18,9 @@ const appDiv: HTMLElement = document.getElementById('app');
 
 // let year: number = 7;
 
-button.addEventListener('click', event =>); {
-  button.addEventListener('click', fizzbuzz);
+
+button.addEventListener('click', fizzbuzz);
 // here is where u put a commmand
-//}
 
 function fizzbuzz() {
   for (let i = 1; i <= 101; i++) {
